@@ -11,7 +11,7 @@
 - 💻📚 Atualmente estou me formando como **Back-end Developer (Cubos Academy), Front-end Developer (Devmedia) com parceria com iFood.**
 - 🎂 Idade: 27 anos.
 
-- 📄[Meu Currículo](https://www.canva.com/design/DAEx8B1yIhc/RA7rv5WLkpmvjfrsptFlbQ/view?utm_content=DAEx8B1yIhc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAEx8B1yIhc/RA7rv5WLkpmvjfrsptFlbQ/view?utm_content=DAEx8B1yIhc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink))
+- 📄Clique [aqui](https://www.canva.com/design/DAEx8B1yIhc/RA7rv5WLkpmvjfrsptFlbQ/view?utm_content=DAEx8B1yIhc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAEx8B1yIhc/RA7rv5WLkpmvjfrsptFlbQ/view?utm_content=DAEx8B1yIhc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)) para ver o meu currículo!
 
 &nbsp;
 &nbsp;
@@ -52,5 +52,12 @@
 &nbsp;
 
 ![Snake animation](https://github.com/romaobernnardo/romaobernnardo/blob/output/github-contribution-grid-snake.svg)
+
+```javascript
+if contratado === True:
+    console.log("Feliz da vida!!!")
+else:
+    console.log("Continuarei tentando!")
+```
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
