@@ -51,8 +51,6 @@
 &nbsp;
 &nbsp;
 
-![Snake animation](https://github.com/romaobernnardo/romaobernnardo/blob/output/github-contribution-grid-snake.svg)
-
 ```javascript
 if contratado === True:
     console.log("Feliz da vida!!!")
