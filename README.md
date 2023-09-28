@@ -7,7 +7,7 @@
  &nbsp;
  
 - 🌱 Estudante de Desenvolvimento de Software.
-- 🎓 Graduando em Psicologia na Universidade do Grande Rio (Unigranrio).
+- 🎓 Graduando em Análise e Desenvolvimento de Sistemas pelo Centro Universitário das Américas Descomplica.
 - 💻📚 Atualmente estou me formando como **Back-end Developer (Cubos Academy), Front-end Developer (Devmedia) com parceria com iFood.**
 - 🎂 Idade: 27 anos.
 
